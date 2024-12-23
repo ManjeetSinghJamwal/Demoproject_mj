@@ -1,2 +1,2 @@
 # Demoproject_mj
-B asic java programs
+Basic java programs
